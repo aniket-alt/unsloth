@@ -7,28 +7,27 @@
 ---
 
 ## Index
-
-- **A. Full Finetuning (SmolLM2-135M)**  
+**A. Full Finetuning (SmolLM2-135M)**  
   - Notebook: [Colab link]  
   - Video: [YouTube link]
 
-- **B. LoRA / QLoRA (Phi-3.5 Mini 4-bit)**  
+**B. LoRA / QLoRA (Phi-3.5 Mini 4-bit)**  
   - Notebook: [Colab link]  
   - Video: [YouTube link]
 
-- **C. RL with Preferences (DPO)**  
+**C. RL with Preferences (DPO)**  
   - Notebook: [Colab link]  
   - Video: [YouTube link]
 
-- **D. Reasoning RL (GRPO)**  
+**D. Reasoning RL (GRPO)**  
   - Notebook: [Colab link]  
   - Video: [YouTube link]
 
-- **E. Continued Pretraining (CPT)**  
+**E. Continued Pretraining (CPT)**  
   - Notebook: [Colab link]  
   - Video: [YouTube link]
 
-- **(Optional) Inference Chat UI**  
+**(Optional) Inference Chat UI**  
   - Demo: [Colab link]  
   - Video: [YouTube link]
 
