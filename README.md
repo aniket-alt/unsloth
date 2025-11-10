@@ -1,8 +1,8 @@
 # Modern AI with Unsloth.ai — Assignment
 
-**Student:** YOUR NAME  
-**Course:** Modern AI  
-**Submission:** Website link with videos + notebooks
+**Student:** Aniket Anil Naik
+**Course:** CMPE-255 Data Mining
+**Submission:** 
 
 ---
 
