@@ -14,7 +14,7 @@
   - Video: [YouTube link]
 
 **B. LoRA / QLoRA (Phi-3.5 Mini 4-bit)**  
-  - Notebook: [Colab link]  
+  - Notebook: [[Colab link]  ](https://colab.research.google.com/drive/1A-yYfuBu6qYdsS6MManA0dV29TTHuSkk?usp=sharing)
   - Video: [YouTube link]
 
 **C. RL with Preferences (DPO)**  
