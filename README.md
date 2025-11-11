@@ -29,10 +29,6 @@
   - Notebook: [Colab link]  
   - Video: [YouTube link]
 
-**(Optional) Inference Chat UI**  
-  - Demo: [Colab link]  
-  - Video: [YouTube link]
-
 ### Notes & References
 - Unsloth Fine-tuning Guide (FFT / `full_finetuning=True`)  
 - RL Guide (DPO/ORPO/KTO)  
