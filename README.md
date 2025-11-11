@@ -22,7 +22,7 @@
   - Video: [YouTube link]
 
 **D. Reasoning RL (GRPO)**  
-  - Notebook: [Colab link]  
+  - Notebook: [[Colab link]  ](https://colab.research.google.com/drive/1-ji2kFE1MOMToVaQC5l51FZEoaAPfM-T?usp=sharing)
   - Video: [YouTube link]
 
 **E. Continued Pretraining (CPT)**  
