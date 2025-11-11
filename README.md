@@ -18,7 +18,7 @@
   - Video: [YouTube link]
 
 **C. RL with Preferences (DPO)**  
-  - Notebook: [Colab link]  
+  - Notebook: [[Colab link]  ](https://colab.research.google.com/drive/174zoTOU7f1juEeKj45WMME2M68J-GDsJ?usp=sharing)
   - Video: [YouTube link]
 
 **D. Reasoning RL (GRPO)**  
